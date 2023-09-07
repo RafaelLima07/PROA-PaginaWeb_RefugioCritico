@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+header{
+    background-color: #050D26;
+    align-items: center;
+    height: 100px;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: white;
+    border-radius: 800px 0px 800px 0px; 
+}
+
+#filme{
+    align-items: flex-start;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 8%;
+}
+
+#livro{
+    align-items: flex-end;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 83%;
+}
+
+nav{
+    color: white;
+    border-radius: 0px 0px 0px 0px;
+    font-size: 20px;
+}
+
+ul{
+    justify-content: space-evenly;
+    display: flex;
+    list-style: none;
+    position: relative;
+    left: 5%;
+    top: 15%;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+h2{
+    text-align: left;
+    margin: 50px 0px 30px 10px;
+    font-size: 32px;
+    color: #022026;
+    position: relative;
+    left: 8%;
+    right: 9%;
+}
+
+.criticas{
+    color: black;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+
+.descubra{
+    color: black;
+    text-align: justify;
+    position: absolute;
+    top: 15%;
+    left: 72%;
+}
+
+.descubra2{
+    color: black;
+    text-align: justify;
+    position: absolute;
+    top: 59%;
+    left: 72%;
+}
+
+h3{
+    padding: 10px;
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top:  5%;
+    right: 5%;
+}
+
+h4{
+    padding: 10px; 
+    font-size: 26px;
+    font-weight: 200px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top:  2%;
+    right: 7%;
+    left: 5%;
+}
+
+h5{
+    font-size: 16px;
+    font-weight: 200;
+    color: white;
+    text-align: center;
+    position: relative;
+    top:  15%;
+}
+
+article{
+    background-color: #051440;
+    height: 400px;
+    width: 800px;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 5px 0px 30px 10px;
+    padding: 15px 5px 5px 10px;
+    border-radius: 100px 25px 100px 25px;
+    box-sizing: border-box;
+}
+
+article img{
+    width: 330px;
+    height: 330px;
+    position: relative;
+    left: 3%;
+    top:  5%;
+    
+}
+
+#preludio{
+    background-color: #022026;
+    float: left;
+    margin: 0 auto; 
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 20%;
+    right: 0.5%;
+    border-radius: 25px 80px 25px 80px;
+}
+
+#witcher{
+    background-color: #022026;
+    float: left;
+    margin: 0 auto; 
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 65%;
+    right: 0.5%;
+    border-radius: 25px 80px 25px 80px;
+}
+
+#witcher2{
+    background-color: #022026;
+    float: left;
+    margin: 0 auto; 
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 82%;
+    right: 0.5%;
+    border-radius: 25px 80px 25px 80px;
+}
+
+aside img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 20%;
+    top:  20%;
+}
+
+p{
+    font-size: 22px;
+    font-weight: 10px;
+    color: white;
+    text-align: justify;
+    position: absolute;
+    left: 50%;
+    top:  30%;
+    right: 5%;
+}
+
+.paragrafo{
+    font-size: 18px;
+    font-weight: 50;
+    color: white;
+    text-align: justify;
+    position: absolute;
+    left: 2%;
+    top:  60%;
+    right: 2%;
+}
+
+footer{
+    background-color: #050D26;
+    height: 30px;
+    position: relative;
+    border-radius: 0px 800px 0px 800px;
+}
