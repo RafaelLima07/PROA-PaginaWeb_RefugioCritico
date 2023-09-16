@@ -7,7 +7,7 @@ https://rafaellima07.github.io/RafaelLima07.github.io-PROA-PaginaWeb-Refugio-Cri
 
 A pedido do professor Gabriel Augusto (https://github.com/gabaugusto), do Instituto Proa, utilizando HTML e CSS, desenvolvi uma página web com 10 artigos com temas variados.
 
-Os temas foram dividos em 7 artigos principais (azul), que contém criticas de filmes e livros, e 3 materias ao lado (verde), na qual, eu apresento um subgenêro de filme slasher e 2 livros de uma franquia. Ambos acompanhados de criticas. O textos foram gerador por AI, porém eu determinei, se a critica seria positiva, negativa ou justa. 
+Os temas foram dividos em 7 artigos principais (azul), que contém criticas de filmes e livros, e 3 materias ao lado (verde), na qual, eu apresento um subgenero de filme slasher e 2 livros de uma franquia. Ambos acompanhados de criticas. O textos foram gerador por AI, porém eu determinei, se a critica seria positiva, negativa ou justa. 
 
 ## Começo da página
 ![Web 1](https://github.com/RafaelLima07/RafaelLima07.github.io-PROA-PaginaWeb-Refugio-Critico/blob/main/Assets/Captura%20de%20tela%202023-09-16%20192403.png)
