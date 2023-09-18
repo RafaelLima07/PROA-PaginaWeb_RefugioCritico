@@ -24,3 +24,5 @@ Os temas foram dividos em 7 artigos principais (azul), que falam de filmes e liv
 # Tecnologias utilizasa:
 ## Front End
 HTML5 / CSS3
+
+### 08/2023
