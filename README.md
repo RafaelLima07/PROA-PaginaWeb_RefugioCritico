@@ -21,7 +21,7 @@ Os temas foram dividos em 7 artigos principais (azul), que falam de filmes e liv
 ## Matéria ao lado
 ![Descubra](https://github.com/RafaelLima07/RafaelLima07.github.io-PROA-PaginaWeb-Refugio-Critico/blob/main/Assets/Captura%20de%20tela%202023-09-16%20192702.png)
 
-# Tecnologias utilizasa:
+# Tecnologias utilizadas:
 ## Front End
 HTML5 / CSS3
 
