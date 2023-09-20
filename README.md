@@ -25,4 +25,4 @@ Os temas foram dividos em 7 artigos principais (azul), que falam de filmes e liv
 ## Front End
 HTML5 / CSS3
 
-### 08/2023
+### Projeto desenvolvido: 08/2023
