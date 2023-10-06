@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://rafaellima07.github.io/PROA-PaginaWeb-Refugio-Critico/
+https://rafaellima07.github.io/PROA-PaginaWeb_RefugioCritico/
 
 A pedido do professor Gabriel Augusto (https://github.com/gabaugusto), do Instituto Proa, utilizando HTML e CSS, desenvolvi uma página web com 10 artigos com temas variados.
 
